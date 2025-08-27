@@ -2,7 +2,7 @@ Implementation of some DPI bypass methods.
 The program is a local SOCKS proxy server.
 
 Usage example:
-```
+```  
 ciadpi --disorder 1 --auto=torst --tlsrec 1+s
 ciadpi --fake -1 --ttl 8
 ```
